@@ -22,10 +22,15 @@ import org.springframework.security.oauth2.provider.token.TokenStore;
 import javax.sql.DataSource;
 
 /**
+ * 
  * 〈OAuth2认证服务器〉
- *  认证服务
- * @author wangmx
- * @since 1.0.0
+ * Function: TODO ADD FUNCTION. <br/>
+ * Reason: TODO ADD REASON(可选). <br/>
+ * date: 2019年7月23日 上午9:56:06 <br/>
+ *
+ * @author <a href="mailto:hbszguchuang@163.com">guchuang</a>
+ * @version 
+ * @since JDK 1.8
  */
 @Configuration
 @EnableAuthorizationServer

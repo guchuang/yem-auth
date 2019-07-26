@@ -1,10 +1,14 @@
 package com.yem.auth.config.oauth;
 
 /**
- * @program: 〈OAuth2认证服务器〉
- * @Date: 2019/1/24 9:40
- * @Author: wangmx
- * @Description:
+ * 〈OAuth2认证服务器〉
+ * Function: TODO ADD FUNCTION. <br/>
+ * Reason: TODO ADD REASON(可选). <br/>
+ * date: 2019年7月23日 上午9:56:06 <br/>
+ *
+ * @author <a href="mailto:hbszguchuang@163.com">guchuang</a>
+ * @version 
+ * @since JDK 1.8
  */
 /*@Configuration
 @EnableAuthorizationServer

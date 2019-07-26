@@ -21,10 +21,15 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * 〈自定义UserDetailService〉
+ *〈自定义UserDetailService〉
  * 自定义认证逻辑
- * @author wangmx
- * @since 1.0.0
+ * Function: TODO ADD FUNCTION. <br/>
+ * Reason: TODO ADD REASON(可选). <br/>
+ * date: 2019年7月23日 上午9:58:32 <br/>
+ *
+ * @author <a href="mailto:hbszguchuang@163.com">guchuang</a>
+ * @version 
+ * @since JDK 1.8
  */
 @Service//("userDetailService")
 public class MyUserDetailService implements UserDetailsService {

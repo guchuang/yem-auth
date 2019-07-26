@@ -16,8 +16,13 @@ import java.util.*;
 /**
  * 〈重写RedisTokenStore〉
  *  spring5.0修改了一些方法，导致不兼容，需要重写全部的set()为stringCommands().set()
- * @author wangmx
- * @since 1.0.0
+ * Function: TODO ADD FUNCTION. <br/>
+ * Reason: TODO ADD REASON(可选). <br/>
+ * date: 2019年7月23日 上午9:56:33 <br/>
+ *
+ * @author <a href="mailto:hbszguchuang@163.com">guchuang</a>
+ * @version 
+ * @since JDK 1.8
  */
 public class RedisTokenStore implements TokenStore {
 

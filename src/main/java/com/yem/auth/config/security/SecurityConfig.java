@@ -16,8 +16,13 @@ import org.springframework.security.crypto.password.PasswordEncoder;
  * 〈security配置〉
  * 配置Spring Security
  * ResourceServerConfig 是比SecurityConfig 的优先级低的
- * @author wangmx
- * @since 1.0.0
+ * Function: TODO ADD FUNCTION. <br/>
+ * Reason: TODO ADD REASON(可选). <br/>
+ * date: 2019年7月23日 上午9:58:20 <br/>
+ *
+ * @author <a href="mailto:hbszguchuang@163.com">guchuang</a>
+ * @version 
+ * @since JDK 1.8
  */
 @Configuration
 @EnableWebSecurity
